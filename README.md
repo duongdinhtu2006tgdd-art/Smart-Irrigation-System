@@ -1,2 +1,2 @@
 # Firmware
-nckh
+Node 2 (ESP32)
